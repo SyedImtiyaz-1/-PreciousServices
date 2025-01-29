@@ -261,6 +261,12 @@
 👩🏻‍💻 Bio: Student | MERN Stack Developer in Making.
 🚀 GitHub: [Ayesha Quazi](https://github.com/Ayeshaq04)
 
+### Name: [Nayanika Mukherjee](https://github.com/Nayanika1402)
+
+📍 Place: Durgapur, West Bengal, India.
+👩🏻‍💻 Bio: College Student | Full Stack Web Developer in Making.
+🚀 GitHub: [Ayesha Quazi](https://github.com/Nayanika1402)
+=======
 ### Name: [Nisarga G R](https://github.com/nisargaa20)
 
 📍 Place: Mandya, Karnataka, India.

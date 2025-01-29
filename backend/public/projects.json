@@ -226,6 +226,7 @@
     "slide-img-2": "img/emailValidator.png"
   },
   {
+      "courseId": "To-do List App",
     "courseId": "Online Stationery Shop",
     "name": "Online Stationery Shop",
     "image": "img/Stationery_Shop.jpg",
@@ -244,6 +245,14 @@
     "slide-img-2": "img/todolist2.png"
   },
   {
+    "courseId": "BMR Calculator",
+      "name": "BMR Calculator",
+      "image": "img/BMR-Calculator.png",
+      "downloadLink": "https://drive.google.com/drive/folders/1KPK1iaLlte2g4iZ1CxF3HANIri47ixvX?usp=sharing",
+      "techstack": "HTML, CSS, JavaScript",
+      "slide-img-1": "img/BMR-Calculator1.png",
+      "slide-img-2": "img/BMR-Calculator1.png"
+    }
     "courseId": "Estate Square App",
     "name": "Estate Square App",
     "image": "img/estate.png",
